@@ -551,8 +551,8 @@ img {
 .hero-area {
   position: relative;
   z-index: 1; }
-  .hero-area .owl-<,
-  .hero-area .owl-> {
+  .hero-area .owl-prev,
+  .hero-area .owl-next {
     position: absolute;
     top: 50%;
     font-size: 24px;
